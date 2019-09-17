@@ -1,2 +1,2 @@
-# Miniprojetct
+# Miniproject
 Miniproject UFM
